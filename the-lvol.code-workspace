@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"github.copilot",
+			"github.vscode-pull-request-github",
+			"github.copilot-chat",
+			"github.remotehub",
+			"github.vscode-github-actions",
+			"ms-vscode.vscode-typescript-next",
+			"ms-vscode.js-debug-nightly",
+			"denoland.vscode-deno"
+		]
+	}
+}
