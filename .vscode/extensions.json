@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "pulumi.pulumi-vscode-tools",
+        "pulumi.pulumi-lsp-client"
+    ]
+}
